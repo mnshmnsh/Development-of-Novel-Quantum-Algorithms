@@ -29,11 +29,11 @@ Ensure your repository is public and submitted by **August 9, 2024, 23:59pm US E
 Ensure your repository does not contain any personal or team tokens/access information to access backends. Ensure your repository does not contain any third-party intellectual property (logos, company names, copied literature, or code). Any resources used must be open source or appropriately referenced.
 
 ### Team Information:
-Team Member 1: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
+Team Member 1: Hisham Mansour
+ - Email: mansouh@gmail.com
+ - Discord ID: mnsh12
+ - GitHub ID: mnshmnsh
+ - Nationality:Swiss
  - Current affiliation:
 
 Team Member 2: _(full name)_
@@ -51,7 +51,8 @@ Team Member 3: _(full name)_
  - Current affiliation:
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
+2 jupyter notebooks and 4 qmod files generated for the project.
+1 presentation file
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
 ### Project Presentation Deck:
